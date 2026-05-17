@@ -1,0 +1,34 @@
+{
+    "window": {
+        "width": 600,
+        "height": 600,
+        "title": "Turtle Snake 🐢",
+        "bg_color": "#1a2e1a"
+    },
+    "grid": {
+        "cell_size": 20,
+        "cols": 28,
+        "rows": 28
+    },
+    "snake": {
+        "start_length": 3,
+        "initial_speed": 150,
+        "speed_increment": 5,
+        "min_speed": 60
+    },
+    "scoring": {
+        "leaf_points": 10,
+        "speed_bonus_threshold": 5
+    },
+    "colors": {
+        "head": "#4dff91",
+        "body": "#2db865",
+        "body_dark": "#1a8040",
+        "leaf": "#ff6b35",
+        "leaf_stem": "#8BC34A",
+        "border": "#2d4a2d",
+        "text": "#ffffff",
+        "score_color": "#4dff91",
+        "game_over_color": "#ff4444"
+    }
+}
