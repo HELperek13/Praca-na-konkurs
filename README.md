@@ -48,5 +48,6 @@ turtle_snake/
 ├── main.py          # Punkt startowy
 ├── game.py          # Logika gry i rysowanie
 ├── config.json      # Ustawienia gry
+├── highscore.json   # Rekord (tworzony automatycznie)
 └── README.md        # Ten plik
 ```
